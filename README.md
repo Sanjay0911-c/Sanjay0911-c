@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently a 1st year student at Anna Univeristy,Madras Institute of Technology Campus<br>🎯 Goals: To explore Computer science and People<br>🎲 Fun fact: I hum when I am working on something important
+📚 I'm currently a 1st year student at Anna University,Madras Institute of Technology Campus<br>🎯 Goals: To explore Computer science and People<br>🎲 Fun fact: I hum when I am working on something important
 
 
 ## 🌐 Socials:
