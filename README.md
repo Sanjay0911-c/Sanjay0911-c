@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Sanjay C and I'm a 1st year student at Anna Univeristy, Madras Institute of Technology Campus from ....</p>
+<p align="left">My name is  Sanjay C and I'm a 1st year student at Anna Univeristy, Madras Institute of Technology Campus.</p>
 
 ###
 
