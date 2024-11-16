@@ -15,7 +15,7 @@ I'm currently a 1st year student at Anna University,Madras Institute of Technolo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanjay0911-c&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
