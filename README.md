@@ -49,7 +49,7 @@ A privacy-focused application that detects and redacts sensitive information fro
 
 ---
 
-### 💰 AI Budget Planner
+### 💰 Smart Budget Planner
 A personal finance management application for tracking expenses, managing budgets, and visualizing spending habits.
 
 **Tech:** React • Express • MongoDB
