@@ -137,9 +137,9 @@ A personal finance management application for tracking expenses, managing budget
 
 # 📫 Connect With Me
 
-📧 **Email:** your-email@example.com
+📧 **Email:** sanjaychandrakumaran@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+💼 **LinkedIn:** https://www.linkedin.com/in/sanjaychandrakumaran/
 
 ---
 
